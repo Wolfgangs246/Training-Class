@@ -1,6 +1,9 @@
 # Claude Code local config
 .claude/
 
+# Playwright MCP working dir
+.playwright-mcp/
+
 # OS / editor
 .DS_Store
 Thumbs.db
