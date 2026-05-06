@@ -6,7 +6,7 @@
 ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat&logo=google&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222?style=flat&logo=github)
 
-> **Live site:** _provisioning — will be filled in once GitHub Pages deploys_
+> **Live site:** [wolfgangs246.github.io/Training-Class](https://wolfgangs246.github.io/Training-Class/)
 
 ## About
 
